@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.demo.config.SpringJava4sConfig",
+      "name": "spring.datasource",
+      "sourceMethod": "public javax.sql.DataSource firstDataSource() ",
+      "type": "javax.sql.DataSource"
+    },
+    {
+      "sourceType": "com.example.demo.config.SpringJava4sConfig",
+      "name": "spring.seconddatasource",
+      "sourceMethod": "public javax.sql.DataSource secondDataSource() ",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}
